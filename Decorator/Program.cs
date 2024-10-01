@@ -9,8 +9,6 @@ namespace Decorator.RealWorld
             // Create book
             Book book = new Book("Worley", "Inside ASP.NET", 10);
             book.Display();
-
-            // Create video
             Video video = new Video("Spielberg", "Jaws", 23, 92);
             video.Display();
 
